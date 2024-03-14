@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Olá, caso queira entrar em contato pode usar o LinkedIn 👋
+<div align="center">
+<br><p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lmateusfaria}/count.svg" /></p> 
+<br>
+</div>
 <!--
 **lmateusfaria/lmateusfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
