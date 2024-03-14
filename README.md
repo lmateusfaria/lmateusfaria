@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lmateusfaria&show_icons=true&count_private=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117" alt="Teus Github Stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmateusfaria&layout=compact&hide_border=true&title_color=2ea043&text_color=2ea043&bg_color=0d1117" />
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmateusfaria&layout=compact&hide_border=true&title_color=2ea043&text_color=2ea043&bg_color=0d1117" />
 </div>
 
 #### 👩‍💻 Languages
